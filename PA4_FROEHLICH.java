@@ -5,7 +5,7 @@
 // main method
 //***********************************
 
-public class PA4_FROEHLICH {
+public class Fat32Run {
 
 	public static void main(String args[]) {
 		Cli cli = new Cli();
